@@ -10,5 +10,5 @@ setInterval(function() {
 }, 300000); // every 5 minutes (300000)
 
 setInterval(function() {
-	https.get('https://nodeawake.herokuapp.com/');
+	https.get('https://resourcebookingawake.herokuapp.com/');
 }, 300000); // every 5 minutes (300000)
